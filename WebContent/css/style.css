@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+.max-size-200{
+	max-width:200px;
+	max-height:200px;
+}
+
+.rating-star{
+	display:inline;
+}
+
+.review-head{
+	display:inline;
+}
+
+tfoot tr td.text-center{
+	text-align:center;
+}
